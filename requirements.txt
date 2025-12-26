@@ -1,0 +1,8 @@
+google-generativeai
+pdfplumber
+gradio==4.28.0
+rouge-score
+transformers
+torch
+nltk
+scikit-learn
